@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Dilani — Software Quality Assurance Engineer
 
-<!--
-**DilaniChathurika/DilaniChathurika** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 About Me
 
-Here are some ideas to get you started:
+🎓 Graduated from Uva Wellassa University with a Bachelor of Industrial Information Technology
+🔍 Passionate about Manual & Automation Testing
+🧪 Skilled in QA tools such as Cypress, Selenium, Rest Assured, Jira, Postman
+💼 Strong understanding of SDLC, STLC, Agile, CI/CD, Test Strategy, Test Planning, Test Documentation
+📧 Contact me-: dilanichathurani241@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="[your-image-url](https://share.google/images/v3FTwyLyJxGngFUXy)" width="350"/>
+</p>
